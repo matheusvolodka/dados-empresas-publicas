@@ -9,8 +9,11 @@ e um arquivo JSON contendo todas as informações das empresas selecionadas.
 ## Objetivos futuros
 Com este projeto, quero criar um script em que você apenas selecione os cnpjs, e serão criados diretórios para cada empresa contendo suas informações separadas em um CSV e um JSON
 ## Preparação de ambiente
-`python3 -m venv venv`
-`pip install -r venv_req.txt`
+`python3 -m venv venv`  
+
+`source venv/bin/activate`  
+
+`pip install -r venv_req.txt`  
 
 # Execução
 `cd scripts && python3 data_extraction.py`
