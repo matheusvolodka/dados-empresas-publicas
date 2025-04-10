@@ -1,12 +1,13 @@
 import requests
 import pandas as pd
 import json
+from datetime import datetime
 
 
-#Escolha os CNPJs das empresas da qual quer os dados
+#Escolha os CNPJs das empresas da qual quer os dados. Máximo 3 empresas:
 cnpjs = [
     '00000000000191', #BANCO DO BRASIL
-    '33157312000162', #IFOOD
+    '05555382000133', #ALURA
     '34075739000184'  #ESTÁCIO
 ]
 
@@ -34,15 +35,18 @@ def con_dados(cnpj):
 #Salva os dados num arquivo JSON, o parametro "nome_arquivo" é uma string com o formato do arquivo, ex: "empresas.json"
 def salvar_json(dados, path_arquivo):
     with open(path_arquivo, 'w', encoding='utf-8') as file:
-        json.dump(dados, file, indent=4, ensure_ascii=False)
+        json.dump(dados, file, indent=4)
 
 #Salva os dados num arquivo CSV, o parametro "nome_arquivo" é uma string com o formato do arquivo, ex: "empresas.csv"
 def salvar_csv(dados, path_arquivo_csv):
     colunas = ['nome', 'cnpj', 'abertura', 'situacao', 'natureza_juridica', 'municipio', 'bairro', 'uf']
-    df = pd.json_normalize(dados)
-    df2 = pd.DataFrame(df)
-    print(df2.head())
-    return df[colunas].to_csv(path_arquivo_csv, index=False, encoding='utf-8')
+    try:
+        df = pd.json_normalize(dados)
+        dataframe = pd.DataFrame(df[colunas])
+        print(dataframe)
+    except Exception as e:
+        print(f'Falha ao criar dataframe {e}')
+    return dataframe.to_csv(path_arquivo_csv, index=False, encoding='utf-8')
 
 
 #Execução do script

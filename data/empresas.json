@@ -10,19 +10,19 @@
         "atividade_principal": [
             {
                 "code": "64.22-1-00",
-                "text": "Bancos múltiplos, com carteira comercial"
+                "text": "Bancos m\u00faltiplos, com carteira comercial"
             }
         ],
         "atividades_secundarias": [
             {
                 "code": "64.99-9-99",
-                "text": "Outras atividades de serviços financeiros não especificadas anteriormente"
+                "text": "Outras atividades de servi\u00e7os financeiros n\u00e3o especificadas anteriormente"
             }
         ],
         "qsa": [
             {
                 "nome": "KELLY TATIANE MARTINS QUIRINO",
-                "qual": "08-Conselheiro de Administração"
+                "qual": "08-Conselheiro de Administra\u00e7\u00e3o"
             },
             {
                 "nome": "LUCIANO MATARAZZO REGNO",
@@ -114,7 +114,7 @@
             },
             {
                 "nome": "PAULO ROBERTO SIMAO BIJOS",
-                "qual": "08-Conselheiro de Administração"
+                "qual": "08-Conselheiro de Administra\u00e7\u00e3o"
             },
             {
                 "nome": "PEDRO BRAMONT",
@@ -146,15 +146,15 @@
             },
             {
                 "nome": "ROBERT JUENEMANN",
-                "qual": "08-Conselheiro de Administração"
+                "qual": "08-Conselheiro de Administra\u00e7\u00e3o"
             },
             {
                 "nome": "ANELIZE LENZI RUAS DE ALMEIDA",
-                "qual": "08-Conselheiro de Administração"
+                "qual": "08-Conselheiro de Administra\u00e7\u00e3o"
             },
             {
                 "nome": "DARIO CARNEVALLI DURIGAN",
-                "qual": "08-Conselheiro de Administração"
+                "qual": "08-Conselheiro de Administra\u00e7\u00e3o"
             },
             {
                 "nome": "MARCELO HENRIQUE GOMES DA SILVA",
@@ -162,11 +162,11 @@
             },
             {
                 "nome": "MARCELO GASPARINO DA SILVA",
-                "qual": "08-Conselheiro de Administração"
+                "qual": "08-Conselheiro de Administra\u00e7\u00e3o"
             },
             {
                 "nome": "ELISA VIEIRA LEONEL",
-                "qual": "08-Conselheiro de Administração"
+                "qual": "08-Conselheiro de Administra\u00e7\u00e3o"
             },
             {
                 "nome": "LUIZ GUSTAVO BRAZ LAGE",
@@ -187,7 +187,7 @@
         "email": "secex@bb.com.br",
         "telefone": "(61) 3493-9002",
         "data_situacao": "03/11/2005",
-        "efr": "UNIÃO",
+        "efr": "UNI\u00c3O",
         "cnpj": "00.000.000/0001-91",
         "ultima_atualizacao": "2025-04-09T13:01:53.147Z",
         "status": "OK",
@@ -214,75 +214,117 @@
         }
     },
     {
+        "abertura": "18/02/2003",
+        "situacao": "ATIVA",
+        "tipo": "MATRIZ",
+        "nome": "AOVS SISTEMAS DE INFORMATICA S.A.",
+        "fantasia": "CAELUM/ALURA/CASA DO CODIGO",
+        "porte": "DEMAIS",
+        "natureza_juridica": "205-4 - Sociedade An\u00f4nima Fechada",
         "atividade_principal": [
             {
-                "code": "82.99-7-02",
-                "text": "Emissão de vales-alimentação, vales-transporte e similares"
+                "code": "85.99-6-03",
+                "text": "Treinamento em inform\u00e1tica"
             }
         ],
-        "data_situacao": "27/03/2019",
-        "complemento": "BLOCO B ANDAR 3 PARTE",
-        "tipo": "MATRIZ",
-        "nome": "IFOOD BENEFICIOS E SERVICOS LTDA.",
-        "telefone": "(11) 3634-3360",
-        "email": "juridico@ifood.com.br",
         "atividades_secundarias": [
             {
-                "code": "64.62-0-00",
-                "text": "Holdings de instituições não-financeiras"
+                "code": "62.04-0-00",
+                "text": "Consultoria em tecnologia da informa\u00e7\u00e3o"
             },
             {
-                "code": "74.90-1-04",
-                "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+                "code": "62.01-5-01",
+                "text": "Desenvolvimento de programas de computador sob encomenda"
             },
             {
-                "code": "82.99-7-99",
-                "text": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+                "code": "82.30-0-01",
+                "text": "Servi\u00e7os de organiza\u00e7\u00e3o de feiras, congressos, exposi\u00e7\u00f5es e festas"
+            },
+            {
+                "code": "63.19-4-00",
+                "text": "Portais, provedores de conte\u00fado e outros servi\u00e7os de informa\u00e7\u00e3o na internet"
+            },
+            {
+                "code": "73.19-0-04",
+                "text": "Consultoria em publicidade"
+            },
+            {
+                "code": "73.19-0-03",
+                "text": "Marketing direto"
+            },
+            {
+                "code": "63.11-9-00",
+                "text": "Tratamento de dados, provedores de servi\u00e7os de aplica\u00e7\u00e3o e servi\u00e7os de hospedagem na internet"
+            },
+            {
+                "code": "47.61-0-01",
+                "text": "Com\u00e9rcio varejista de livros"
+            },
+            {
+                "code": "58.11-5-00",
+                "text": "Edi\u00e7\u00e3o de livros"
+            },
+            {
+                "code": "47.61-0-02",
+                "text": "Com\u00e9rcio varejista de jornais e revistas"
+            },
+            {
+                "code": "58.13-1-00",
+                "text": "Edi\u00e7\u00e3o de revistas"
+            },
+            {
+                "code": "77.40-3-00",
+                "text": "Gest\u00e3o de ativos intang\u00edveis n\u00e3o-financeiros"
             }
         ],
         "qsa": [
             {
-                "nome": "FLAVIO DE FREITAS STECCA",
+                "nome": "FELIPE SAMUEL ARGALJI",
+                "qual": "08-Conselheiro de Administra\u00e7\u00e3o"
+            },
+            {
+                "nome": "ALEXANDRE VITAL LEAO",
+                "qual": "08-Conselheiro de Administra\u00e7\u00e3o"
+            },
+            {
+                "nome": "SERGIO LUIS LOPES JUNIOR",
+                "qual": "10-Diretor"
+            },
+            {
+                "nome": "ADRIANO HENRIQUE DE ALMEIDA",
                 "qual": "05-Administrador"
             },
             {
-                "nome": "LUCAS MARINI PITTIONI",
-                "qual": "05-Administrador"
+                "nome": "PAULO EDUARDO AZEVEDO SILVEIRA",
+                "qual": "16-Presidente"
             },
             {
-                "nome": "GUSTAVO CARVALHO MENDES",
-                "qual": "05-Administrador"
+                "nome": "GUILHERME DE AZEVEDO SILVEIRA",
+                "qual": "10-Diretor"
             },
             {
-                "nome": "IFOOD PARTICIPACOES LTDA.",
-                "qual": "22-Sócio",
-                "nome_rep_legal": "DIEGO CARNEIRO BARRETO",
-                "qual_rep_legal": "17-Procurador"
-            },
-            {
-                "nome": "DIEGO CARNEIRO BARRETO",
-                "qual": "05-Administrador"
+                "nome": "BRUNO CZERMAINSKI KLASSMANN",
+                "qual": "10-Diretor"
             }
         ],
-        "situacao": "ATIVA",
-        "bairro": "VILA YARA",
-        "logradouro": "AV DOS AUTONOMISTAS 1496",
-        "numero": "1.496",
-        "cep": "06.020-902",
-        "municipio": "OSASCO",
+        "logradouro": "R VERGUEIRO",
+        "numero": "3195",
+        "complemento": "CONJ 133",
+        "municipio": "SAO PAULO",
+        "bairro": "VILA MARIANA",
         "uf": "SP",
-        "porte": "DEMAIS",
-        "abertura": "27/03/2019",
-        "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
-        "cnpj": "33.157.312/0001-62",
-        "ultima_atualizacao": "2025-04-08T17:04:36.685Z",
+        "cep": "04.101-300",
+        "email": "claudio.abbate@caelum.com.br",
+        "telefone": "(11) 5571-2751",
+        "data_situacao": "18/02/2003",
+        "cnpj": "05.555.382/0001-33",
+        "ultima_atualizacao": "2025-04-05T01:44:05.086Z",
         "status": "OK",
-        "fantasia": "",
         "efr": "",
         "motivo_situacao": "",
         "situacao_especial": "",
         "data_situacao_especial": "",
-        "capital_social": "453351000.00",
+        "capital_social": "169074440.18",
         "simples": {
             "optante": false,
             "data_opcao": null,
@@ -308,53 +350,53 @@
         "nome": "SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA",
         "fantasia": "ESCOLA ESTACIO DE EDUCACAO BASICA MARACANA",
         "porte": "DEMAIS",
-        "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+        "natureza_juridica": "206-2 - Sociedade Empres\u00e1ria Limitada",
         "atividade_principal": [
             {
                 "code": "85.31-7-00",
-                "text": "Educação superior - graduação"
+                "text": "Educa\u00e7\u00e3o superior - gradua\u00e7\u00e3o"
             }
         ],
         "atividades_secundarias": [
             {
                 "code": "68.10-2-01",
-                "text": "Compra e venda de imóveis próprios"
+                "text": "Compra e venda de im\u00f3veis pr\u00f3prios"
             },
             {
                 "code": "68.10-2-02",
-                "text": "Aluguel de imóveis próprios"
+                "text": "Aluguel de im\u00f3veis pr\u00f3prios"
             },
             {
                 "code": "72.10-0-00",
-                "text": "Pesquisa e desenvolvimento experimental em ciências físicas e naturais"
+                "text": "Pesquisa e desenvolvimento experimental em ci\u00eancias f\u00edsicas e naturais"
             },
             {
                 "code": "74.90-1-04",
-                "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+                "text": "Atividades de intermedia\u00e7\u00e3o e agenciamento de servi\u00e7os e neg\u00f3cios em geral, exceto imobili\u00e1rios"
             },
             {
                 "code": "75.00-1-00",
-                "text": "Atividades veterinárias"
+                "text": "Atividades veterin\u00e1rias"
             },
             {
                 "code": "85.20-1-00",
-                "text": "Ensino médio"
+                "text": "Ensino m\u00e9dio"
             },
             {
                 "code": "85.32-5-00",
-                "text": "Educação superior - graduação e pós-graduação"
+                "text": "Educa\u00e7\u00e3o superior - gradua\u00e7\u00e3o e p\u00f3s-gradua\u00e7\u00e3o"
             },
             {
                 "code": "85.33-3-00",
-                "text": "Educação superior - pós-graduação e extensão"
+                "text": "Educa\u00e7\u00e3o superior - p\u00f3s-gradua\u00e7\u00e3o e extens\u00e3o"
             },
             {
                 "code": "85.41-4-00",
-                "text": "Educação profissional de nível técnico"
+                "text": "Educa\u00e7\u00e3o profissional de n\u00edvel t\u00e9cnico"
             },
             {
                 "code": "85.42-2-00",
-                "text": "Educação profissional de nível tecnológico"
+                "text": "Educa\u00e7\u00e3o profissional de n\u00edvel tecnol\u00f3gico"
             },
             {
                 "code": "85.99-6-04",
@@ -362,15 +404,15 @@
             },
             {
                 "code": "86.30-5-03",
-                "text": "Atividade médica ambulatorial restrita a consultas"
+                "text": "Atividade m\u00e9dica ambulatorial restrita a consultas"
             },
             {
                 "code": "86.30-5-04",
-                "text": "Atividade odontológica"
+                "text": "Atividade odontol\u00f3gica"
             },
             {
                 "code": "86.30-5-99",
-                "text": "Atividades de atenção ambulatorial não especificadas anteriormente"
+                "text": "Atividades de aten\u00e7\u00e3o ambulatorial n\u00e3o especificadas anteriormente"
             },
             {
                 "code": "86.50-0-01",
@@ -378,11 +420,11 @@
             },
             {
                 "code": "86.50-0-02",
-                "text": "Atividades de profissionais da nutrição"
+                "text": "Atividades de profissionais da nutri\u00e7\u00e3o"
             },
             {
                 "code": "86.50-0-03",
-                "text": "Atividades de psicologia e psicanálise"
+                "text": "Atividades de psicologia e psican\u00e1lise"
             },
             {
                 "code": "86.50-0-04",
@@ -390,7 +432,7 @@
             },
             {
                 "code": "96.02-5-02",
-                "text": "Atividades de estética e outros serviços de cuidados com a beleza"
+                "text": "Atividades de est\u00e9tica e outros servi\u00e7os de cuidados com a beleza"
             }
         ],
         "qsa": [
@@ -404,7 +446,7 @@
             },
             {
                 "nome": "YDUQS PARTICIPACOES S.A.",
-                "qual": "22-Sócio",
+                "qual": "22-S\u00f3cio",
                 "nome_rep_legal": "EDUARDO PARENTE MENEZES",
                 "qual_rep_legal": "05-Administrador"
             }
